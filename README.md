@@ -1,7 +1,9 @@
 # Resource Pack
 
-Marlboro-Totem + Hanf-Farn + Joint-Fernrohr für den Minecraft-Server.
+Marlboro-Totem + Hanf-Farn + Joint-Fernrohr + Bong-Braustand für den Minecraft-Server.
 
-Direkt-Link: https://raw.githubusercontent.com/obipepenobi-hub/Minecraft-server-updater/resourcepack/Liam-Pack-v4.zip
+Direkt-Link: https://raw.githubusercontent.com/obipepenobi-hub/Minecraft-server-updater/resourcepack/Liam-Pack-v5.zip
 
-SHA-1: a83c07d9bb0dd4a7fea4186366b98d0cb9e32d37
+SHA-1: fa85468a359b9c1581a5e50bfc0a096adb2eba85
+
+Datenpaket (Rauch/Blubbern): Bong-Rauch-Datenpaket.zip → in world/datapacks/
